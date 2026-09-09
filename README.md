@@ -1,31 +1,28 @@
-### Hola, soy Juan Eslava Herraiz 👋 | Software Engineer & Systems Enthusiast
+Juan Eslava Herraiz 🐗 | Cloud & Systems Engineer | AWS Certified
 
-Apasionado por el desarrollo de software de alto rendimiento, la arquitectura cloud-native y la integración de sistemas inteligentes. Actualmente centrado en ecosistemas modernos Full-Stack, IA aplicada y automatización en la nube (con certificación activa en AWS).
+Ingeniero de software especializado en arquitecturas cloud-native, diseño de sistemas distribuidos de alta disponibilidad y automatización de infraestructura. Con dominio técnico centrado en el ecosistema AWS, orquestación de contenedores y desarrollo de backend de alto rendimiento.
+☁️ Core Cloud, Architecture & DevOps (AWS)
 
----
+    AWS Core & Advanced Services: EC2, S3, RDS, DynamoDB, VPC, IAM, ECS, Lambda, CloudFront, CloudFormation, API Gateway, Route 53, SQS, SNS, EventBridge (Certificación activa).
 
-### 🛠️ Core Tech Stack & Lenguajes
-* **Lenguajes:** `TypeScript`, `JavaScript`, `Python`, `Rust`, `Go`
-* **Frontend & Full-Stack:** `React`, `Next.js`, `Tailwind CSS`, `Astro`, `Vue 3`, `Vite`, `Bun`
-* **Backend & APIs:** `Node.js`, `Fastify`, `NestJS`, `FastAPI`, `gRPC`, `GraphQL`, `Prisma`, `Drizzle ORM`
+    Arquitectura & Patrones de Sistemas: Microservices, Serverless Architectures, Event-Driven Architecture, High Availability, Fault Tolerance, Load Balancing, Distributed Systems.
 
----
+    Infraestructura, Contenedores & Redes: Docker, Docker Compose, Kubernetes (K8s), Nginx, Infrastructure as Code (IaC), Immutable Infrastructure.
 
-### ⚡ Web Ecosystem, Performance & DX
-* **Frameworks & UI de Alta Velocidad:** `SolidJS`, `Qwik`, `Vike`, `SolidStart`
-* **Build, Linting & Tipado:** `Biome`, `Valibot`, `Deno`
-* **Datos & Automatización Ágil:** `EdgeDB`, `Turso`, `Dagger`, `Vector`
+    CI/CD, Automatización & Observabilidad: GitHub Actions, Dagger, Prometheus, Grafana, Sentry, Cypress, End-to-End Observability.
 
----
+    Edge & Serverless Platforms: Cloudflare Workers, Vercel Functions, Supabase.
 
-### ☁️ Cloud, DevOps & Serverless
-* **Cloud Infrastructure (AWS):** `EC2`, `S3`, `RDS`, `DynamoDB`, `VPC`, `IAM`, `ECS`, `Lambda`, `CloudFront`, `CloudFormation`
-* **Contenedores & Orquestación:** `Docker`, `Docker Compose`, `Kubernetes (K8s)`, `Nginx`
-* **CI/CD & Observabilidad:** `GitHub Actions`, `Prometheus`, `Grafana`, `Sentry`, `Cypress`
-* **Edge & Serverless:** `Cloudflare Workers`, `Vercel Functions`, `Supabase`
+⚡ Backend, Lenguajes & Bases de Datos
 
----
+    Lenguajes Principales: Python, Rust, Go, TypeScript, JavaScript.
 
-### 🗄️ Bases de Datos & Almacenamiento
-* **Relacionales & NoSQL:** `PostgreSQL`, `MySQL`, `MongoDB`, `SQLite`
-* **Caché:** `Redis`
+    Backend, APIs & Rendimiento: FastAPI, Node.js, Fastify, NestJS, gRPC, GraphQL, Prisma, Drizzle ORM, Bun, Deno.
+
+    Bases de Datos & Almacenamiento: PostgreSQL, MySQL, MongoDB, SQLite, Redis, EdgeDB, Turso.
+
+💻 Frontend & Full-Stack (Ecosistema Complementario)
+
+    Frameworks & UI: React, Next.js, Astro, Vue 3, SolidJS, Qwik, Vite, Tailwind CSS.
+
+    Validación & Tooling: Biome, Valibot, Vector.
