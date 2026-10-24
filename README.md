@@ -6,6 +6,10 @@ I learn by building: I create a small AWS platform with Terraform, deploy it, re
 
 Also open to junior software development and technical support roles.
 
+## Currently studying
+
+Preparing for AWS certifications (not yet obtained). <!-- Opcional, si quieres concretar: "Preparing AWS Certified Solutions Architect - Associate (not yet obtained)". Pon solo la que estudias de verdad. -->
+
 ## Projects
 
 - **[aws-eks-gitops-platform](https://github.com/Adonitologist/aws-eks-gitops-platform)**: private-endpoint EKS, two-stage Terraform, Argo CD, Karpenter, CI with OIDC, ADRs, tested teardown.
