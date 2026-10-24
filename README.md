@@ -8,7 +8,7 @@ Also open to junior software development and technical support roles.
 
 ## Currently studying
 
-Preparing for AWS certifications (not yet obtained). <!-- Opcional, si quieres concretar: "Preparing AWS Certified Solutions Architect - Associate (not yet obtained)". Pon solo la que estudias de verdad. -->
+Preparing for AWS certifications (not yet obtained).
 
 ## Projects
 
@@ -19,11 +19,20 @@ Preparing for AWS certifications (not yet obtained). <!-- Opcional, si quieres c
 
 ## Stack shown in these repos
 
-AWS (VPC, EKS, ECS Fargate, ALB, RDS, IAM, Secrets Manager, CloudWatch, SSM, Lambda) · Terraform · GitHub Actions (OIDC) · Docker · Kubernetes · Argo CD · Python · Bash / PowerShell
+AWS (VPC, EKS, ECS Fargate, ECR, ALB, EC2, Auto Scaling, RDS, S3, IAM, Secrets Manager, KMS, CloudWatch, SNS, SQS, SSM, CloudFront, Lambda, API Gateway, DynamoDB) · Terraform · GitHub Actions (OIDC) · Docker · Kubernetes · Helm · Argo CD · Karpenter · Python · Bash / PowerShell
 
 ## Also worked with
 
-SQL, Angular, HTML/CSS. <!-- Añade aquí solo lo que defiendas hoy en una entrevista, por ejemplo Go o TypeScript -->
+- **AWS:** CloudFormation, Route 53, EventBridge
+- **Architecture:** Microservices, Serverless, Event-Driven Architecture, Load Balancing, Immutable Infrastructure
+- **Infrastructure:** Docker Compose, Nginx
+- **CI/CD and observability:** Dagger, Prometheus, Grafana, Sentry, Cypress
+- **Edge and serverless platforms:** Cloudflare Workers, Vercel Functions, Supabase
+- **Languages:** Java, C++, JavaScript, TypeScript, Rust, Go, SQL
+- **Backend and APIs:** FastAPI, Node.js, Fastify, NestJS, gRPC, GraphQL, Prisma, Drizzle ORM, Bun, Deno
+- **Databases:** PostgreSQL, MySQL, MongoDB, SQLite, Redis, EdgeDB, Turso
+- **Frontend:** Angular, React, Next.js, Astro, Vue 3, SolidJS, Qwik, Vite, Tailwind CSS, HTML, CSS
+- **Tooling:** Biome, Valibot, Vector
 
 ## How I work
 
